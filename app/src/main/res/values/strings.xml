@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zadanie2v2</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">email</string>
+    <string name="topic">topic</string>
+    <string name="content">your content</string>
+</resources>
